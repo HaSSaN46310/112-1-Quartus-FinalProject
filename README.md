@@ -26,6 +26,8 @@ The game is endless loop until enemy is dead or our character health bar is bein
 
 Sound Effect: A game without sound effect is not very nice but due to time we cannot make it
 
+# A short video which include all preview of this project
 
+https://www.youtube.com/watch?v=_WfSISRq58A
 
 
